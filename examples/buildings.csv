@@ -1,0 +1,6 @@
+building,energy,energy_unit,area,area_unit
+Building A,1850000,kWh,42000,sqft
+Building B,9400,therm,28000,sqft
+Building C,3100,MMBtu,65000,sqft
+Building D,5200,GJ,3800,sqm
+Building E,410000,kWh,9500,sqm
